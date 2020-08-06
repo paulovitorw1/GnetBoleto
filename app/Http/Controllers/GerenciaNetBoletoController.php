@@ -13,9 +13,9 @@ class GerenciaNetBoletoController extends Controller
     public function testeGnet()
     {
 
-        $clientId = 'Client_Id_4c5d8faefbb36fce9b50c40656961ac2ed87aae8';
+        $clientId = 'id aqui ';
         // insira seu Client_Id, conforme o ambiente (Des ou Prod)
-        $clientSecret = 'Client_Secret_dce0cf7f48befcc83c550fd8cd2272f143b58522';
+        $clientSecret = 'id aqui';
         // insira seu Client_Secret, conforme o ambiente (Des ou Prod)
 
         $options = [
